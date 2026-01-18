@@ -9,5 +9,10 @@ const sortedPostsList = await getSortedPostsList();
 ---
 
 <MainGridLayout title={i18n(I18nKey.archive)}>
-    <ArchivePanel sortedPosts={sortedPostsList} client:only="svelte"></ArchivePanel>
+  <ArchivePanel
+    tags={[]}                <!-- 空数组，表示没有标签过滤 -->
+    categories={[]}          <!-- 空数组，表示没有分类过滤 -->
+    sortedPosts={sortedPostsList}
+    client:only="svelte"
+  />
 </MainGridLayout>
