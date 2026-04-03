@@ -47,15 +47,15 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 	"assets/images/DesktopWallpaper/d6.png",
 		// ],
 		// 移动背景图片（支持单张或多张随机）
-		// mobile: "assets/images/MobileWallpaper/m1.avif",
-		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
-		],
+		mobile: "assets/images/MobileWallpaper/m1.png",
+		// mobile: [
+		// 	"assets/images/MobileWallpaper/m1.avif",
+		// 	"assets/images/MobileWallpaper/m2.avif",
+		// 	"assets/images/MobileWallpaper/m3.avif",
+		// 	"assets/images/MobileWallpaper/m4.avif",
+		// 	"assets/images/MobileWallpaper/m5.avif",
+		// 	"assets/images/MobileWallpaper/m6.avif",
+		// ],
 	},
 	// Banner模式特有配置
 	banner: {
