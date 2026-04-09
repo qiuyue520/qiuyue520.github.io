@@ -11,7 +11,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	showInNavbar: true,
 
 	// 使用方式："meting" 使用 Meting API，"local" 使用本地音乐列表
-	mode: "meting",
+	mode: "local",
 
 	// 默认音量 (0-1)
 	volume: 0.7,
@@ -50,11 +50,25 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "使一颗心免于哀伤",
-				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
-				lrc: "",
+				name: "恶作剧",
+				artist: "王蓝茵",
+				url: "/assets/music/恶作剧 - 王蓝茵.flac",
+				cover: "/assets/music/cover/恶作剧 - 王蓝茵.jpg",
+				lrc: "/assets/music/lrc/恶作剧 - 王蓝茵.lrc",
+			},
+			{
+				name: "5:20AM",
+				artist: "刀酱",
+				url: "/assets/music/刀酱 - 520AM.mp3",
+				cover: "/assets/music/cover/刀酱 - 520AM.png",
+				lrc: "/assets/music/lrc/刀酱 - 520AM.lrc",
+			},
+			{
+				name: "小宇",
+				artist: "蓝心羽",
+				url: "/assets/music/蓝心羽 - 小宇.mp3",
+				cover: "/assets/music/cover/蓝心羽 - 小宇.png",
+				lrc: "/assets/music/lrc/蓝心羽 - 小宇.lrc",
 			},
 		],
 	},
