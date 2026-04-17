@@ -52,7 +52,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
 				name: "恶作剧",
 				artist: "王蓝茵",
-				url: "/assets/music/恶作剧 - 王蓝茵.flac",
+				url: "/assets/music/恶作剧 - 王蓝茵.mp3",
 				cover: "/assets/music/cover/恶作剧 - 王蓝茵.jpg",
 				lrc: "/assets/music/lrc/恶作剧 - 王蓝茵.lrc",
 			},
