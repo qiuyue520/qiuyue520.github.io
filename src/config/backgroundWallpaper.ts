@@ -76,12 +76,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"In Corrupted Data, I Rewrite",
+				"From Crashed Worlds, I Respawn",
+				"Amid Frozen Time, I AFK",
+				"Upon Target Locked, I Play",
+				"From Hidden Code, I Exploit",
+				"In Game Over, I Win",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
