@@ -6,8 +6,8 @@ export const commentConfig: CommentConfig = {
 
 	//twikoo评论系统配置，版本1.7.4
 	twikoo: {
-		// envId: "https://twikoo-xiaonai.netlify.app/.netlify/functions/twikoo",
-		envId: "http://111.170.14.40:26666",//我自己的后台
+		envId: "https://twikoo-xiaonai.netlify.app/.netlify/functions/twikoo",
+		// envId: "http://111.170.14.40:26666",//我自己的后台
 		// 设置 Twikoo 评论系统语言
 		lang: "zh-CN",
 		// 是否启用文章访问量统计功能
